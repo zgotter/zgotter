@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zgotter)](https://github.com/anuraghazra/github-readme-stats)
+[![zgotter's github stats](https://github-readme-stats.vercel.app/api?username=zgotter)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--Hits-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzgotter)](https://hits.seeyoufarm.com)
 
 <!--Badges-->
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zgotter.github.io/)](https://zgotter.github.io/)
